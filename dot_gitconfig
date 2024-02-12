@@ -1,0 +1,12 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = smallketchup82
+	email = 69545310+smallketchup82@users.noreply.github.com
+	signingkey = A9535AAF
+[core]
+	editor = nano
+[commit]
+	gpgSign = true
+[tag]
+	gpgSign = true
