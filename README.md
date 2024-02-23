@@ -11,7 +11,7 @@ IDE:
 Window Manager: Yabai  
 Terminal: ITerm2  
 Git UI: Lazygit  
-Keystroke Visualizer: Keycastr (MacOS) or Carnac (Windows)
+Keystroke Visualizer: Keycastr (MacOS) or Carnac (Windows)  
 Keyboard: Magic Keyboard (or hyperx alloy origins)  
 Display: Gigabyte G27F2 (Windows)  
 Microphone: HyperX Duocast  
