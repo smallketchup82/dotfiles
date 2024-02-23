@@ -1,6 +1,6 @@
 # Setup Information
 OS: MacOS (sometimes windows)  
-PC: MacBook Pro 14" 2023 or Custom Build
+PC: MacBook Pro 14" 2023 or Custom Build  
 Browser: Firefox or Arc
 
 IDE:
