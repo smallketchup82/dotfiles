@@ -110,12 +110,14 @@ alt - e : yabai -m window --toggle split
 alt - t : yabai -m window --toggle float
 alt - f : yabai -m window --toggle zoom-fullscreen
 alt - x : yabai -m window --close
+ctrl + alt + cmd - r : yabai --restart-service
+alt - space : yabai -m space --balance
 
 # focus window
-alt - h : yabai -m window --focus west || yabai -m window --focus stack.prev || yabai -m window --focus stack.last
+alt - h : yabai -m window --focus west || yabai -m window --focus prev || yabai -m window --focus last
 alt - j: yabai -m window --focus south
 alt - k : yabai -m window --focus north
-alt - l : yabai -m window --focus east || yabai -m window --focus stack.next || yabai -m window --focus stack.first
+alt - l : yabai -m window --focus east || yabai -m window --focus next || yabai -m window --focus first
 
 # swap window
 alt + shift - h : yabai -m window --swap west
