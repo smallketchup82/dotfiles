@@ -44,6 +44,8 @@ yabai -m rule --add app="^Music$" manage=off
 yabai -m rule --add app="^System Settings$" manage=off
 yabai -m rule --add app="^osu.Game.Tests$" manage=off
 yabai -m rule --add app="^osu!$" manage=off
-yabai -m rule --add app="^transmit$" manage=off
+yabai -m rule --add app="^Transmit$" manage=off
+yabai -m rule --add app="^ProtonVPN$" manage=off
+yabai -m rule --add app="^qBittorrent$" manage=off
 
 echo "yabai configuration loaded.."

@@ -37,6 +37,7 @@ Plug 'tpope/vim-surround'
 Plug 'kien/rainbow_parentheses.vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'SirVer/ultisnips'
+Plug 'preservim/nerdcommenter'
 
 call plug#end()
 
